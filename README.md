@@ -1,1 +1,1 @@
-# openwrt18.06.1.github.io
+# openwrt18.06.1 repository
